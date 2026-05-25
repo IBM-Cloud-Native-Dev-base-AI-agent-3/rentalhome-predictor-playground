@@ -1,0 +1,11 @@
+google-genai
+python-dotenv
+pandas
+numpy
+pillow
+lightgbm
+scikit-learn
+fastapi
+uvicorn
+pydantic
+pypdf
